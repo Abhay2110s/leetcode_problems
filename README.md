@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay2110s/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

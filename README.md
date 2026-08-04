@@ -23,6 +23,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -76,6 +77,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Abhay2110s/leetcode_problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -89,6 +91,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |

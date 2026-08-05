@@ -185,4 +185,16 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

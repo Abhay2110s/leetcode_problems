@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhay2110s/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Abhay2110s/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -155,6 +156,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -163,12 +165,14 @@
 | [0016-3sum-closest](https://github.com/Abhay2110s/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhay2110s/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

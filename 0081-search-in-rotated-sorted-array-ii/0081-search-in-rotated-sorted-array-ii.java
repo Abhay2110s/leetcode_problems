@@ -9,15 +9,12 @@ class Solution {
             if (arr[mid] == target) {
                 return true;
             }
-
-            // Duplicates: cannot determine which half is sorted
             if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
                 low++;
                 high--;
                 continue;
             }
 
-            // Left half is sorted
             if (arr[low] <= arr[mid]) {
 
                 if (arr[low] <= target && target < arr[mid]) {
@@ -27,7 +24,7 @@ class Solution {
                 }
 
             }
-            // Right half is sorted
+
             else {
 
                 if (arr[mid] < target && target <= arr[high]) {

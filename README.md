@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay2110s/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -48,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -82,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -141,6 +144,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Minimax
@@ -178,6 +182,7 @@
 | [0018-4sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -219,4 +224,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -142,6 +142,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -252,4 +253,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhay2110s/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

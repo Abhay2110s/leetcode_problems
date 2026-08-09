@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay2110s/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -181,6 +184,7 @@
 | [0016-3sum-closest](https://github.com/Abhay2110s/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
@@ -228,4 +232,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

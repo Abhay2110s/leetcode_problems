@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay2110s/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

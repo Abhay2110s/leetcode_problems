@@ -23,6 +23,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abhay2110s/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -211,6 +213,7 @@
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -262,10 +265,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 ## Interactive
 |  |
 | ------- |

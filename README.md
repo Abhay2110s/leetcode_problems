@@ -72,6 +72,7 @@
 | [0904-fruit-into-baskets](https://github.com/Abhay2110s/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -118,6 +119,7 @@
 | [0904-fruit-into-baskets](https://github.com/Abhay2110s/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhay2110s/leetcode_problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -159,6 +161,7 @@
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -254,6 +257,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Counting
 |  |
 | ------- |

@@ -49,6 +49,7 @@
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Abhay2110s/leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -129,6 +130,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Abhay2110s/leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |

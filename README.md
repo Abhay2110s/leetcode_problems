@@ -19,6 +19,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay2110s/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay2110s/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1191-k-concatenation-maximum-sum) |

@@ -265,6 +265,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 ## Simulation
@@ -328,4 +330,12 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

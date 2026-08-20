@@ -267,6 +267,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -310,6 +311,7 @@
 | [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 ## Simulation
@@ -337,9 +339,11 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

@@ -148,6 +148,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Abhay2110s/leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -194,6 +195,7 @@
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |

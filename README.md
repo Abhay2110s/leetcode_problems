@@ -94,6 +94,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -305,6 +306,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -322,6 +324,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -414,6 +417,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +443,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |

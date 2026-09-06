@@ -127,6 +127,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay2110s/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
@@ -198,6 +199,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Abhay2110s/leetcode_problems/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -308,6 +310,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
@@ -328,6 +331,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -418,6 +422,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
@@ -444,6 +449,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |

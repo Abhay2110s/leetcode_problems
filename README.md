@@ -441,6 +441,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -471,6 +472,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -479,6 +481,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |

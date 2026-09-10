@@ -331,6 +331,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay2110s/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -452,6 +453,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay2110s/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -485,6 +487,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhay2110s/leetcode_problems/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay2110s/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |

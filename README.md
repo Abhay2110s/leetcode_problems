@@ -46,6 +46,7 @@
 | [0724-find-pivot-index](https://github.com/Abhay2110s/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Abhay2110s/leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -268,6 +269,7 @@
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -286,6 +288,7 @@
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0324-wiggle-sort-ii) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |

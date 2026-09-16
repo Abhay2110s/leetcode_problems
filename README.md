@@ -151,6 +151,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhay2110s/leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhay2110s/leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Abhay2110s/leetcode_problems/tree/master/3870-count-commas-in-range) |
@@ -417,6 +418,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay2110s/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |

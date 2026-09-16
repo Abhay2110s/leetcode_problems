@@ -433,11 +433,13 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay2110s/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |

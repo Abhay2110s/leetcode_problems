@@ -233,6 +233,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -430,6 +431,7 @@
 | [0054-spiral-matrix](https://github.com/Abhay2110s/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |

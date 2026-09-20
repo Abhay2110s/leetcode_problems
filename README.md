@@ -147,6 +147,7 @@
 | [0048-rotate-image](https://github.com/Abhay2110s/leetcode_problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Abhay2110s/leetcode_problems/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhay2110s/leetcode_problems/tree/master/0836-rectangle-overlap) |
@@ -243,6 +244,7 @@
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhay2110s/leetcode_problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhay2110s/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Abhay2110s/leetcode_problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |

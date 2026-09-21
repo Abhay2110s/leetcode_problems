@@ -144,6 +144,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhay2110s/leetcode_problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
@@ -396,6 +397,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhay2110s/leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |

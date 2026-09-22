@@ -222,6 +222,7 @@
 | [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Abhay2110s/leetcode_problems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
@@ -427,6 +428,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhay2110s/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
@@ -486,6 +488,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
@@ -523,6 +526,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |

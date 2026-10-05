@@ -250,6 +250,7 @@
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -462,6 +463,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -615,6 +617,7 @@
 | [0022-generate-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

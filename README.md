@@ -239,6 +239,7 @@
 | [0022-generate-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhay2110s/leetcode_problems/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhay2110s/leetcode_problems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -377,6 +378,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
@@ -423,6 +425,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -524,6 +527,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |
@@ -562,6 +566,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Abhay2110s/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhay2110s/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhay2110s/leetcode_problems/tree/master/0404-sum-of-left-leaves) |

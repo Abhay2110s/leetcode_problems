@@ -253,6 +253,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Abhay2110s/leetcode_problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -345,6 +346,7 @@
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Quicksort
 |  |
@@ -467,6 +469,7 @@
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -623,6 +626,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

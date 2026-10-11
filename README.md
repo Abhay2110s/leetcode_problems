@@ -30,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay2110s/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay2110s/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -157,6 +158,7 @@
 | [0048-rotate-image](https://github.com/Abhay2110s/leetcode_problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Abhay2110s/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Abhay2110s/leetcode_problems/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -426,6 +428,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
@@ -642,4 +645,20 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

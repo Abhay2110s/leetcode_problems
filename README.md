@@ -69,6 +69,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay2110s/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -267,6 +268,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1816-truncate-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |

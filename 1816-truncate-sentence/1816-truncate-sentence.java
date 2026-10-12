@@ -1,15 +1,16 @@
+
 class Solution {
     public String truncateSentence(String s, int k) {
-        int count = 0 ;
         String[] words = s.split(" ");
-        StringBuilder sb = new StringBuilder();
-        for(String word : words)
-        {
-            sb.append(word);
-            count++;
-            if(count == k) break;
-            sb.append(" ");
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i < k; i++) {
+            if (i > 0) {
+                result.append(" ");
+            }
+            result.append(words[i]);
         }
-        return sb.toString();
+
+        return result.toString();
     }
 }

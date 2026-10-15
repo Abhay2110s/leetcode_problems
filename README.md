@@ -77,6 +77,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhay2110s/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay2110s/leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -121,6 +122,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -672,4 +674,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

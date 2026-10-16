@@ -262,6 +262,7 @@
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0824-goat-latin](https://github.com/Abhay2110s/leetcode_problems/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |

@@ -71,6 +71,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -299,6 +300,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhay2110s/leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay2110s/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Minimax
 |  |
@@ -356,6 +358,7 @@
 | [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay2110s/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |

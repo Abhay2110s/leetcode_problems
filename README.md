@@ -274,6 +274,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Abhay2110s/leetcode_problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1360-number-of-days-between-two-dates](https://github.com/Abhay2110s/leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay2110s/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

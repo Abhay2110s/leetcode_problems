@@ -161,6 +161,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhay2110s/leetcode_problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Abhay2110s/leetcode_problems/tree/master/0070-climbing-stairs) |
@@ -524,6 +525,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
@@ -535,6 +537,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |

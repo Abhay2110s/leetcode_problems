@@ -44,6 +44,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/Abhay2110s/leetcode_problems/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhay2110s/leetcode_problems/tree/master/0724-find-pivot-index) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay2110s/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/Abhay2110s/leetcode_problems/tree/master/0641-design-circular-deque) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Abhay2110s/leetcode_problems/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -533,6 +536,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/Abhay2110s/leetcode_problems/tree/master/0641-design-circular-deque) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay2110s/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |

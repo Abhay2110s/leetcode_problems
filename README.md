@@ -170,6 +170,7 @@
 | [0189-rotate-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhay2110s/leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Abhay2110s/leetcode_problems/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
@@ -536,6 +537,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [0641-design-circular-deque](https://github.com/Abhay2110s/leetcode_problems/tree/master/0641-design-circular-deque) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhay2110s/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -701,4 +703,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhay2110s/leetcode_problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->

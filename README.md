@@ -265,6 +265,7 @@
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Abhay2110s/leetcode_problems/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |

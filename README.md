@@ -231,6 +231,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1191-k-concatenation-maximum-sum) |
@@ -268,6 +269,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Abhay2110s/leetcode_problems/tree/master/0482-license-key-formatting) |
+| [0516-longest-palindromic-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |

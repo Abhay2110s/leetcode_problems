@@ -114,6 +114,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0791-custom-sort-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Abhay2110s/leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -273,6 +274,7 @@
 | [0541-reverse-string-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0791-custom-sort-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0791-custom-sort-string) |
 | [0824-goat-latin](https://github.com/Abhay2110s/leetcode_problems/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Abhay2110s/leetcode_problems/tree/master/0859-buddy-strings) |
@@ -365,6 +367,7 @@
 | [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0324-wiggle-sort-ii) |
+| [0791-custom-sort-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |

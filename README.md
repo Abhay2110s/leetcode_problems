@@ -274,6 +274,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Abhay2110s/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -394,6 +395,7 @@
 | [0011-container-with-most-water](https://github.com/Abhay2110s/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Abhay2110s/leetcode_problems/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/Abhay2110s/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
@@ -524,6 +526,7 @@
 | [0234-palindrome-linked-list](https://github.com/Abhay2110s/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Abhay2110s/leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhay2110s/leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay2110s/leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -665,6 +668,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhay2110s/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Abhay2110s/leetcode_problems/tree/master/0402-remove-k-digits) |
 ## Union-Find
 |  |
 | ------- |

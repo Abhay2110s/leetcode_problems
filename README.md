@@ -64,6 +64,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay2110s/leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -321,6 +322,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Abhay2110s/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhay2110s/leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhay2110s/leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay2110s/leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhay2110s/leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhay2110s/leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -363,6 +365,7 @@
 | [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Abhay2110s/leetcode_problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay2110s/leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhay2110s/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -384,6 +387,7 @@
 | [0881-boats-to-save-people](https://github.com/Abhay2110s/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhay2110s/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay2110s/leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |

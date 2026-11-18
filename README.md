@@ -313,6 +313,7 @@
 | [1816-truncate-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1816-truncate-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhay2110s/leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |

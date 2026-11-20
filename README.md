@@ -312,6 +312,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhay2110s/leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -401,6 +402,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay2110s/leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [1859-sorting-the-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhay2110s/leetcode_problems/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Abhay2110s/leetcode_problems/tree/master/1859-sorting-the-sentence) |
 ## Timsort
 |  |
 | ------- |

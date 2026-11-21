@@ -89,6 +89,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay2110s/leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay2110s/leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -140,6 +141,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay2110s/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhay2110s/leetcode_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay2110s/leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay2110s/leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay2110s/leetcode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay2110s/leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -317,6 +319,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhay2110s/leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay2110s/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay2110s/leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -470,6 +473,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay2110s/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Abhay2110s/leetcode_problems/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay2110s/leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -634,6 +638,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay2110s/leetcode_problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhay2110s/leetcode_problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhay2110s/leetcode_problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |

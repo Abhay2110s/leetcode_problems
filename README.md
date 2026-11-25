@@ -120,6 +120,7 @@
 | [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhay2110s/leetcode_problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abhay2110s/leetcode_problems/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Abhay2110s/leetcode_problems/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Abhay2110s/leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay2110s/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -288,6 +289,7 @@
 | [0257-binary-tree-paths](https://github.com/Abhay2110s/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhay2110s/leetcode_problems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Abhay2110s/leetcode_problems/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Abhay2110s/leetcode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0392-is-subsequence](https://github.com/Abhay2110s/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhay2110s/leetcode_problems/tree/master/0394-decode-string) |
@@ -532,6 +534,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Abhay2110s/leetcode_problems/tree/master/0299-bulls-and-cows) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhay2110s/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

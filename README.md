@@ -104,6 +104,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhay2110s/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay2110s/leetcode_problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhay2110s/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhay2110s/leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay2110s/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhay2110s/leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Quicksort
 |  |
 | ------- |

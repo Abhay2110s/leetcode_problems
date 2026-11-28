@@ -105,6 +105,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay2110s/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhay2110s/leetcode_problems/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -438,6 +440,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhay2110s/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Abhay2110s/leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Abhay2110s/leetcode_problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -741,6 +744,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay2110s/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Abhay2110s/leetcode_problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Abhay2110s/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
